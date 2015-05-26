@@ -1,4 +1,5 @@
-Como destacar parte de um texto, com *itálico* ou **negrito** Pode-se também descartar um texto com fonte ``monoespaçada``
+Como destacar parte de um texto, com *itálico* ou **negrito** 
+Pode-se também descartar um texto com fonte ``monoespaçada``
 
 Percebe-se então que para formatar em :
 
